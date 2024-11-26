@@ -11,6 +11,10 @@ I am currently studying for my master's degree in software engineering at McGill
 
 I'm also an open-source contributor, I have contributed to some famous projects, including [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), and [Bert-VITES2](https://github.com/fishaudio/Bert-VITS2). BTW, I support the Free Software Movement by regularly donating ($6/month) to [fsf.org](https://fsf.org/) to achieve their great goals.
 
+## Tech Stack
+
+Familiar with  Python, Rust, PHP, Java, C/C++ and all other tech stacks to develop and deploy services in containers, on VMs, and with K8S clusters. Have much experience with all major cloud computing service providers, including Apple Cloud Infrastructure, Microsoft Azure, Amazon Web Service, and Alibaba Cloud Service. Senior in backend development and dev-ops, however, I don't write frontend pages and UI.
+
 ## My Services
 
 I'm hosting some interesting services on my own server (a Raspberry Pi 5) and domain **steve235lab.ca**:
