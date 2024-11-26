@@ -11,8 +11,6 @@ I am currently studying for my master's degree in software engineering at McGill
 
 I'm also an open-source contributor, I have contributed to some famous projects, including [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), and [Bert-VITES2](https://github.com/fishaudio/Bert-VITS2). BTW, I support the Free Software Movement by regularly donating ($6/month) to [fsf.org](https://fsf.org/) to achieve their great goals.
 
-BTW, I'm a <span style="color:#5BCEFA">M</span><span style="color:#F5A9B8">T</span><span style="color:#FFFFFF">F</span>.
-
 ## My Services
 
 I'm hosting some interesting services on my own server (a Raspberry Pi 5) and domain **steve235lab.ca**:
