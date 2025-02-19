@@ -14,7 +14,7 @@ Familiar with  Python, Rust, PHP, Java, C/C++ and all other tech stacks to devel
 
 I'm hosting some interesting services on my own server (a Raspberry Pi 5) and domain **steve235lab.ca**:
 
-- [LobeChat](https://lobechat.steve235lab.ca/): A self-hosted open-source LLM chat bot service with API access to OpenAI GPT and Anthropic Claude models.
+- [LobeChat](https://lobechat.steve235lab.ca/): A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
 - [NextCloud](https://nextcloud.steve235lab.ca/): A self-hosted open-source cloud drive.
 - Minio: A self-hosted open-source OSS which this page is powered by.
 - [Magnetico](https://magnetico.steve235lab.ca/): Where you can search for any resource in the DHT network.
