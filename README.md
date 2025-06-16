@@ -16,7 +16,6 @@ I'm hosting some interesting services on my own server (a Raspberry Pi 5) and do
 
 - [LobeChat](https://lobechat.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/1/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/1/avg-response) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
 - [NextCloud](https://nextcloud.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/2/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/2/avg-response) A self-hosted open-source cloud drive.
-- [Magnetico](https://magnetico.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/9/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/9/avg-response) Where you can search for any resource in the DHT network.
 - [Jellyfin](https://jellyfin.steve235lab.ca) ![status](https://uptime-kuma.steve235lab.ca/api/badge/10/status) ![avg-respons](https://uptime-kuma.steve235lab.ca/api/badge/10/avg-response) The Free Software Media System.
 - Check status of all public services on [uptime-kuma](https://uptime-kuma.steve235lab.ca/status/steve235lab-ca).
 
