@@ -2,7 +2,7 @@
 
 ## About Me
 
-~~I am currently studying for my master's degree in software engineering at McGill University.~~ (Being deffered to Sep. 2025) I am currently a digital nomad working remotely while travelling. I'm an Apple Alumni (aka former Apple employee XD), and alumni of Shanghai University as well. I worked as a full-time backend engineer (they even gave me the senior title), and I'm interested in exploring, developing and hosting online services for my daily usage.  
+I am currently studying for my master's degree in software engineering at McGill University. I worked as a full-time backend engineer (they even gave me the senior title), and I'm interested in exploring, developing and hosting online services for my daily usage.  
 
 I'm also an open-source contributor, I have contributed to some famous projects, including [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), and [Bert-VITES2](https://github.com/fishaudio/Bert-VITS2). BTW, I support the Free Software Movement by regularly donating ($6/month) to [fsf.org](https://fsf.org/) to achieve their great goals.
 
