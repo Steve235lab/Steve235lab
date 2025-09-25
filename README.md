@@ -1,4 +1,4 @@
-![Header Image](https://api.minio.steve235lab.ca/public/rareview_5.jpg)
+![Header Image](https://api.minio.steve235lab.ca/public/rareview_5_s.jpeg)
 
 ## About Me
 
