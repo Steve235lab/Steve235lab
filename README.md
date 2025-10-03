@@ -2,17 +2,17 @@
 
 ## About Me
 
-I am currently studying for my master's degree in software engineering at McGill University. I worked as a full-time backend engineer (they even gave me the senior title), and I'm interested in exploring, developing and hosting online services for my daily usage.  
+I’m a graduate student in software engineering at McGill University. I previously worked as a full-time backend engineer (with a senior title) and currently freelance on Mercor and Algora. I build, develop, and self-host online services for my personal use and for friends.
 
-I'm also an open-source contributor, I have contributed to some famous projects, including [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), and [Bert-VITES2](https://github.com/fishaudio/Bert-VITS2). BTW, I support the Free Software Movement by regularly donating ($6/month) to [fsf.org](https://fsf.org/) to achieve their great goals.
+I'm also an open-source contributor, I have contributed to some famous projects, including [lobe-chat](https://github.com/lobehub/lobe-chat), [open-interpreter](https://github.com/OpenInterpreter/open-interpreter), [AudioLDM2](https://github.com/haoheliu/AudioLDM2), and [Bert-VITES2](https://github.com/fishaudio/Bert-VITS2). BTW, I support the Free Software Movement by regularly donating ($6/month) to [fsf.org](https://fsf.org/) to achieve their great goals.
 
-## Tech Stack
+## Skill Set
 
-Familiar with  Python, Rust, PHP, Java, C/C++ and all other tech stacks to develop and deploy services in containers, on VMs, and with K8S clusters. Have much experience with all major cloud computing service providers, including Apple Cloud Infrastructure, Microsoft Azure, Amazon Web Service, and Alibaba Cloud Service. Senior in backend development and dev-ops, however, I don't write frontend pages and UI.
+Experienced with Python, Rust, PHP, Java, C/C++ and all other tech stacks to develop and deploy services in containers, on VMs, and with K8S clusters. Have much experience with all major cloud computing service providers, including Apple Cloud Infrastructure, Microsoft Azure, Amazon Web Service, and Alibaba Cloud Service. Senior in backend development and dev-ops.
 
 ## My Services
 
-I'm hosting some interesting services on my own server (a Raspberry Pi 5) and domain **steve235lab.ca**:
+I'm hosting some interesting services on my own server (a Raspberry Pi 5) under my domain **steve235lab.ca**:
 
 - [LobeChat](https://lobechat.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/1/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/1/avg-response) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
 - [NextCloud](https://nextcloud.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/2/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/2/avg-response) A self-hosted open-source cloud drive.
