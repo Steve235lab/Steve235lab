@@ -10,6 +10,10 @@ I'm also an open-source contributor, I have contributed to some famous projects,
 
 Experienced with Python, Rust, PHP, Java, C/C++ and all other tech stacks to develop and deploy services in containers, on VMs, and with K8S clusters. Have much experience with all major cloud computing service providers, including Apple Cloud Infrastructure, Microsoft Azure, Amazon Web Service, and Alibaba Cloud Service. Senior in backend development and dev-ops.
 
+## Recent Works
+
+You can find my recent works (course assignments, reports, etc.) [here](https://nextcloud.steve235lab.ca/s/eB8micymj8SQPkj).
+
 ## My Services
 
 I'm hosting some interesting services on my own server (a Raspberry Pi 5) under my domain **steve235lab.ca**:
